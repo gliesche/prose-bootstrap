@@ -8,10 +8,6 @@ categories:
 - articles
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut semper lacinia purus, id gravida tortor semper et. Mauris quis dolor at quam tincidunt lacinia quis quis nunc. In vulputate nibh at enim ullamcorper adipiscing. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+# Check test 1,2
 
-
-# Neque porro quisquam
-
-
-Sed facilisis felis in justo iaculis placerat. Donec venenatis suscipit metus congue sodales. Sed suscipit lorem sit amet ipsum condimentum vitae mattis dui lobortis. Etiam quis tortor nulla. Sed id quam non arcu eleifend tempor. Fusce tincidunt condimentum nisl, vitae laoreet lorem rhoncus eget. Nunc nec libero mi, vel posuere mauris. In neque arcu, rutrum sed consectetur at, lobortis nec mauris.
+Your bones don't break, mine do. That's clear. Your cells react to bacteria and viruses differently than mine. You don't get sick, I do. That's also clear. But for some reason, you and I react the exact same way to water. We swallow it too fast, we choke. We get some in our lungs, we drown. However unreal it may seem, we are connected, you and I. We're on the same curve, just on opposite ends.
